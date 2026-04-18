@@ -1,0 +1,16 @@
+# Tasks
+
+- [x] Requirements & Architecture Planning
+    - [x] Define features and tech stack
+    - [x] Create detailed implementation plan
+- [/] Project Initialization
+    - [/] Create project directory
+    - [/] Initialize Vite + React + TypeScript
+- [ ] Implementation
+    - [ ] Setup Basic UI Layout (Header, Sidebar/Overlay, Map Container)
+    - [ ] Integrate Map (Leaflet)
+    - [ ] Implement Store Data Source (Mock or API)
+    - [ ] Implement Search & Filter
+    - [ ] Implement Store Detail View
+- [ ] Verification
+    - [ ] Manual testing of features

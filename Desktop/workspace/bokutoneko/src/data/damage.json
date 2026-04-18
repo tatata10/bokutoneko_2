@@ -1,0 +1,57 @@
+[
+  {
+    "element": "火属性",
+    "color": "rose",
+    "characters": [
+      { "name": "暁の戦神・オーディン", "type": "体当たり", "rarity": "超激レア", "damage": "24,099", "condition": "160%増加" },
+      { "name": "リアル超越RPGピコドラゴン", "type": "体当たり", "rarity": "超激レア", "damage": "21,489", "condition": "体力1以下で340%増加" },
+      { "name": "ニヤーディアン・覚醒モード", "type": "体当たり", "rarity": "激レア", "damage": "21,339", "condition": "80%増加" },
+      { "name": "究極破壊兵器イフリート", "type": "ため", "rarity": "超激レア", "damage": "21,141", "condition": "体力1以下で350%増加" },
+      { "name": "煉獄の遺跡採掘員ホリオ", "type": "ため", "rarity": "激レア", "damage": "15,327", "condition": "50秒以内で460%増加" }
+    ]
+  },
+  {
+    "element": "水属性",
+    "color": "blue",
+    "characters": [
+      { "name": "お正月の超書き初め・武蔵坊弁慶", "type": "ため", "rarity": "超激レア", "damage": "6,468", "condition": "180%増加" },
+      { "name": "都会の超雪妖・イエティ", "type": "体当たり", "rarity": "超激レア", "damage": "6,212", "condition": "170%増加" },
+      { "name": "朱夏・超越独眼竜の藩士ツバキ", "type": "体当たり", "rarity": "超激レア", "damage": "6,098", "condition": "140%増加" },
+      { "name": "こそ泥盗賊・マッティ", "type": "ため", "rarity": "レア", "damage": "5,830", "condition": "130%増加" },
+      { "name": "都会の姫君・ピアノッテ", "type": "魔法", "rarity": "超激レア", "damage": "5,050", "condition": "体力2以下で260%増加" }
+    ]
+  },
+  {
+    "element": "木属性",
+    "color": "emerald",
+    "characters": [
+      { "name": "超風神のトルネ", "type": "体当たり", "rarity": "激レア", "damage": "3,817", "condition": "80%増加" },
+      { "name": "翠緑の応援団長・ルキ", "type": "体当たり", "rarity": "超激レア", "damage": "3,341", "condition": "120%増加" },
+      { "name": "神々の聖伝令使ヘルメス", "type": "弓", "rarity": "超激レア", "damage": "3,115", "condition": "120%増加" },
+      { "name": "憤怒のツンドウ", "type": "ため", "rarity": "激レア", "damage": "2,953", "condition": "体力90%以下で230%増加" },
+      { "name": "夢見の隠し飼い・ブーケ", "type": "魔法", "rarity": "超激レア", "damage": "2,545", "condition": "110%増加" }
+    ]
+  },
+  {
+    "element": "光属性",
+    "color": "amber",
+    "characters": [
+      { "name": "満腹はごいたネコ", "type": "魔法", "rarity": "超激レア", "damage": "1,077", "condition": "110%増加" },
+      { "name": "超5GネコフォンX", "type": "魔法", "rarity": "激レア", "damage": "1,058", "condition": "40%増加" },
+      { "name": "天空の若かりしゼウス", "type": "体当たり", "rarity": "激レア", "damage": "1,057", "condition": "70%増加" },
+      { "name": "大君主・泡盛之助", "type": "魔法", "rarity": "超激レア", "damage": "1,052", "condition": "65%増加" },
+      { "name": "光の暴走楽器ニャッハ", "type": "体当たり", "rarity": "レア", "damage": "1,012", "condition": "50%増加" }
+    ]
+  },
+  {
+    "element": "闇属性",
+    "color": "purple",
+    "characters": [
+      { "name": "超越大海賊団・ネコパイレーツ号", "type": "ため", "rarity": "超激レア", "damage": "18,415", "condition": "150%増加" },
+      { "name": "宇宙警察・プロキオン", "type": "魔法", "rarity": "超激レア", "damage": "13,212", "condition": "5回被弾で580%増加" },
+      { "name": "天ノ国の住民・ニャンシュウ", "type": "ため", "rarity": "激レア", "damage": "12,195", "condition": "200%増加" },
+      { "name": "破滅の超堕天使ルシファー・シロちん", "type": "魔法", "rarity": "超激レア", "damage": "7,794", "condition": "100%増加" },
+      { "name": "悪魔門番のニャンベロス", "type": "体当たり", "rarity": "激レア", "damage": "7,768", "condition": "召喚1回以下で300%増加" }
+    ]
+  }
+]

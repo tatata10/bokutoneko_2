@@ -1,0 +1,100 @@
+[
+  {
+    "sessionId": "1bae7733-0810-49a6-8ecc-84a94e548975",
+    "messageId": 0,
+    "type": "user",
+    "message": "next.jsでサウナイキタイ風のウェブアプリを作成したい。サウナの代わりに事務の情報を表示してデータベースあるモノとして適当に作成して",
+    "timestamp": "2025-07-28T12:16:10.073Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 0,
+    "type": "user",
+    "message": "MapLibre + OSMを使って地図アプリを作成して",
+    "timestamp": "2025-07-28T14:13:41.054Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 1,
+    "type": "user",
+    "message": "この計画で勧めてください",
+    "timestamp": "2025-07-28T14:14:23.463Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 2,
+    "type": "user",
+    "message": "AJAXError:  (403): https://api.maptiler.com/maps/streets-v2/style.json?key=YOUR_MAPTILER_API_KEYこのエラーが発生した世解決して",
+    "timestamp": "2025-07-28T14:18:01.209Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 3,
+    "type": "user",
+    "message": "キーはhzyHx9gPwHcGISi0p4iz",
+    "timestamp": "2025-07-28T14:19:49.161Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 4,
+    "type": "user",
+    "message": "地図の表示領域を画面の30％にしてそれ以外に補足情報等を記載して」、サウナイキタイのサイトを参考にして",
+    "timestamp": "2025-07-28T14:25:08.347Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 5,
+    "type": "user",
+    "message": "ホーム画面の表示ももう少しサウナイキタイのサイトに寄せて",
+    "timestamp": "2025-07-28T14:26:21.956Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 6,
+    "type": "user",
+    "message": "この計画で勧めて",
+    "timestamp": "2025-07-28T14:26:55.083Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 7,
+    "type": "user",
+    "message": "サイトではなくスマホのデザインとして作成して",
+    "timestamp": "2025-07-28T14:29:05.826Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 8,
+    "type": "user",
+    "message": "勧めて",
+    "timestamp": "2025-07-28T14:29:45.012Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 9,
+    "type": "user",
+    "message": "地図上にピンで表示することはできませんか",
+    "timestamp": "2025-07-28T14:31:56.903Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 10,
+    "type": "user",
+    "message": "勧めて",
+    "timestamp": "2025-07-28T14:32:17.129Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 11,
+    "type": "user",
+    "message": "ピンのデザインを変更して「星4．5」のように評価が表示されるようにして",
+    "timestamp": "2025-07-28T14:34:01.885Z"
+  },
+  {
+    "sessionId": "ce480cca-c755-46c7-acd3-5c851a546412",
+    "messageId": 12,
+    "type": "user",
+    "message": "勧めて",
+    "timestamp": "2025-07-28T14:34:25.744Z"
+  }
+]

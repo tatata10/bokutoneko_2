@@ -1,0 +1,16 @@
+[
+  {
+    "sessionId": "b6ff1d1a-b3c3-4f0f-b723-8fb84bc2b760",
+    "messageId": 0,
+    "type": "user",
+    "message": "mapをgooglemapに変更して",
+    "timestamp": "2025-07-31T14:21:37.741Z"
+  },
+  {
+    "sessionId": "b6ff1d1a-b3c3-4f0f-b723-8fb84bc2b760",
+    "messageId": 1,
+    "type": "user",
+    "message": "すべてのファイルを確認してそれっぽいファイルを変更してちずapiをgooglemapに変更して",
+    "timestamp": "2025-07-31T14:22:43.720Z"
+  }
+]
